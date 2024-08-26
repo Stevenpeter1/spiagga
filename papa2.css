@@ -1,0 +1,26 @@
+div{
+    background-color: rgb(9, 0, 92);
+    border-radius: 15px;
+    width: 450px;
+    color: rgb(255, 255, 255); 
+    height: fit-content;
+    padding: 1px 50px;
+    width: 40%;
+    height: auto;
+    text-align: left;
+    white-space: pre-wrap;
+ }
+ body{
+    font-family: Georgia, serif;
+    align-items: center;
+    background-color: rgba(47, 255, 238, 0.356);
+}
+h1 , h2 , h3 , p{
+    text-shadow: 1px 1px 1px rgb(0, 0, 255);
+}
+a{
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+input{
+    border-radius: 4px;
+}
